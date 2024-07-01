@@ -1,4 +1,6 @@
 # Linker
-gcc func.c -c func.o
-gcc main.c -c main.o
-gcc func.o main.o -o exe
+gcc func.c -c func.o<br>
+gcc main.c -c main.o<br>
+gcc func.o main.o -o exe<br>
+
+
