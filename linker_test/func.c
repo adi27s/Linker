@@ -1,5 +1,5 @@
 #include "func.h"
 
-int func(int i) {
+static int func(int i) {
     return ++i ;
 }
